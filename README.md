@@ -7,10 +7,9 @@ Features:
 - Don't like the clock? Switch to a traditional timeline view
 
 Instructions:
-1. git clone the repo
-2. npm install in both backend and frontend folders
-3. make sure you are connected to mongoDB
-4. setup .env according to .env.example
-4. (in backend) node server.js
-5. (in frontend) npm run dev
+1. Create an account (dummy emails would work)
+2. Start using it!
+
+This repo is a live deploy of https://github.com/rumned/fc-sem2-final-project
+All passwords are hashed before saving in database
 
