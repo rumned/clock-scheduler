@@ -11,7 +11,7 @@ Instructions:
 1. git clone the repo
 2. npm install in both backend and frontend folders
 3. make sure you are connected to mongoDB
+4. setup .env according to .env.example
 4. (in backend) node server.js
 5. (in frontend) npm run dev
 
-.env files are included for convenience
