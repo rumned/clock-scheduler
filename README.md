@@ -8,7 +8,8 @@ Features:
 
 Instructions:
 1. Create an account (dummy emails would work)
-2. Start using it!
+2. It might take a few minutes before the backend is spun
+3. Start using it!
 
 This repo is a live deploy of https://github.com/rumned/fc-sem2-final-project
 All passwords are hashed before saving in database
